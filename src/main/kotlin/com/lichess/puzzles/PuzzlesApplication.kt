@@ -8,5 +8,4 @@ class PuzzlesApplication
 
 fun main(args: Array<String>) {
 	runApplication<PuzzlesApplication>(*args)
-	//
 }
